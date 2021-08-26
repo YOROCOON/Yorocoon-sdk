@@ -1,20 +1,20 @@
 {
-  "name": "@shibaswap/shibaswap-sdk",
+  "name": "@YOROCOON/yorocoon-sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of ShibaSwap.",
+  "description": "🛠 An SDK for building applications.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Shiba-Fantom/shibaswap-sdk.git",
+  "repository": "https://github.com/YOROCOON/yorocoon-sdk.git",
   "keywords": [
     "pancakeswap",
-    "shibaswap",
+    "yorocoon",
     "bsc"
   ],
-  "module": "dist/shibaswap-sdk.esm.js",
+  "module": "dist/yorocoon-sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
     "build": "tsdx build",
